@@ -7,3 +7,4 @@ defaults
             type: "posts" # previously
         values:
             layout: "default"
+	-
