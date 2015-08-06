@@ -12,12 +12,12 @@ baseurl:  /github_pages
 owner:
   name:           李野
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "运气是日积月累实力的爆发."
   email:          liye71023326@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/liye71023326
   stackexchange:  
   linkedin:       
   instagram:      
