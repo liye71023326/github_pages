@@ -10,7 +10,6 @@ image:
 ---
 
 {% highlight bash %}
-
 #!/bin/bash
 #pingall
 
